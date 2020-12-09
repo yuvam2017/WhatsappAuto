@@ -13,7 +13,7 @@ driver.get("https://web.whatsapp.com/")
 wait = WebDriverWait(driver, 600)
 
  
-target = '"Yuvam"'
+target = '"Targeted User"'
 
 string = sys.argv[1]
 
